@@ -1,0 +1,210 @@
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\appsettings.Development.json
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\appsettings.json
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\APIConsultas.exe
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\APIConsultas.deps.json
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\APIConsultas.runtimeconfig.json
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\APIConsultas.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\APIConsultas.pdb
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.csproj.AssemblyReference.cache
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.GeneratedMSBuildEditorConfig.editorconfig
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.AssemblyInfoInputs.cache
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.AssemblyInfo.cs
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.csproj.CoreCompileInputs.cache
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.MvcApplicationPartsAssemblyInfo.cs
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.MvcApplicationPartsAssemblyInfo.cache
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets.build.json
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets.development.json
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets\msbuild.APIConsultas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets\msbuild.build.APIConsultas.props
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIConsultas.props
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIConsultas.props
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\scopedcss\bundle\APIConsultas.styles.css
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsu.6E865899.Up2Date
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\refint\APIConsultas.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.pdb
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.genruntimeconfig.cache
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\ref\APIConsultas.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Humanizer.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\MySqlConnector.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.CodeDom.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SENAC\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\appsettings.json
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\APIConsultas.exe
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\APIConsultas.deps.json
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\APIConsultas.runtimeconfig.json
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\APIConsultas.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\APIConsultas.pdb
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.csproj.AssemblyReference.cache
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.AssemblyInfoInputs.cache
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.AssemblyInfo.cs
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets\msbuild.APIConsultas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets\msbuild.build.APIConsultas.props
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIConsultas.props
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIConsultas.props
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\scopedcss\bundle\APIConsultas.styles.css
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsu.6E865899.Up2Date
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\refint\APIConsultas.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.pdb
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.genruntimeconfig.cache
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\ref\APIConsultas.dll
