@@ -6,8 +6,7 @@ public class Consulta
     public int MedicoId { get; set; }
     public int PacienteId { get; set; }
     public string? Especialidade { get; set; }
-    public TimeOnly Horario { get; set; }
-    public DateTime Dia { get; set; }
+    public DateTime DataHora { get; set; }
 
     // Relacionamentos
     public Medico? Medico { get; set; }

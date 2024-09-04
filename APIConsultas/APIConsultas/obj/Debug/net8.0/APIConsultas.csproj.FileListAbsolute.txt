@@ -338,3 +338,11 @@ C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\
 C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.sourcelink.json
 C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.RazorAssemblyInfo.cache
 C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\obj\Debug\net8.0\APIConsultas.RazorAssemblyInfo.cs
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lucas Florindo\source\SENAC\PTI WEB MOBILE\PTI WEB MOBILE\APIConsultas\APIConsultas\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

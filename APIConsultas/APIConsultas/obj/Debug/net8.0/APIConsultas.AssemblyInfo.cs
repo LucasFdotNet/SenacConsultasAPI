@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIConsultas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d59083f23545814d32530cfc45848fa92b61d5c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8324c0336b59d9609d48410f8a093d6ee4423465")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIConsultas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIConsultas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

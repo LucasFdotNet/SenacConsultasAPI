@@ -8,5 +8,4 @@ public class Medico
     public string? Crm { get; set; }
 
     // Relacionamento com Consulta
-    public ICollection<Consulta>? Consultas { get; set; }
 }

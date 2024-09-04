@@ -11,6 +11,4 @@ public class Paciente
     public DateOnly DataNasc { get; set; }
     public string? Senha { get; set; }
 
-    // Relacionamento com Consulta
-    public ICollection<Consulta>? Consultas { get; set; }
 }

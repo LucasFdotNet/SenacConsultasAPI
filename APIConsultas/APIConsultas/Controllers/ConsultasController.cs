@@ -1,14 +1,17 @@
 ﻿using APIConsultas.Context;
 using APIConsultas.Models;
 
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
 namespace APIConsultas.Controllers
 {
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class ConsultasController : ControllerBase
     {
@@ -19,70 +22,124 @@ namespace APIConsultas.Controllers
             _context = context;
         }
 
-
-        [HttpGet("medicos")]
-        public ActionResult<IEnumerable<Medico>> GetMedicos()
+        // DTO para criar consultas
+        public class ConsultaCreateDTO
         {
-            var medicos = _context.Medicos.ToList();
-            if (medicos is null)
-            {
-                return NotFound("Não existem Médicos cadastrados...");
-            }
-            return medicos;
+            public int ConsultaId { get; set; }
+            public int MedicoId { get; set; }
+            public int PacienteId { get; set; }
+            public string? Especialidade { get; set; }
+            public DateTime DataHora { get; set; }
         }
 
-        [HttpGet("{Paciente:int}", Name="ObterConsulta")]
-        public ActionResult<Consulta> GetConsultasByPaciente(int pacienteId)
+        // GET: api/Consultas/paciente/{pacienteId}
+        [Authorize]
+        [HttpGet("paciente/{pacienteId}")]
+        public async Task<ActionResult<IEnumerable<ConsultaCreateDTO>>> GetConsultasByPacienteId(int pacienteId)
         {
-            var consulta = _context.Consultas.FirstOrDefault(p => p.PacienteId == pacienteId);
-            if(consulta is null)
-            {
-                return NotFound("Você não possui Consultas marcadas...");
-            }
-            return consulta;
+            var consultas = await _context.Consultas
+                .Where(c => c.PacienteId == pacienteId)
+                .Select(c => new ConsultaCreateDTO
+                {
+                    ConsultaId = c.ConsultaId,
+                    MedicoId = c.MedicoId,
+                    PacienteId = c.PacienteId,
+                    Especialidade = c.Especialidade,
+                    DataHora = c.DataHora
+                })
+                .ToListAsync();
+
+            if (consultas == null || consultas.Count == 0)
+                return NotFound();
+
+            return Ok(consultas);
         }
 
-        [HttpPost("marcar")]
-        public ActionResult Post(Consulta consulta)
+
+        // GET: api/Consultas/{id}
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Consulta>> GetConsulta(int id)
         {
+            var consulta = await _context.Consultas
+                .Include(c => c.Medico)
+                .Include(c => c.Paciente)
+                .FirstOrDefaultAsync(c => c.ConsultaId == id);
 
-            if (consulta is null)
-            {
-                return BadRequest("Dados inválidos...");
-            }
-            _context.Consultas.Add(consulta);
-            _context.SaveChanges();
-
-            return new CreatedAtRouteResult("ObterConsulta",
-                new { id = consulta.ConsultaId }, consulta);
-        }
-
-        [HttpPut("{id:int}", Name ="remarcar")]
-        public ActionResult Put(int id, Consulta consulta)
-        {
-            if(id != consulta.ConsultaId)
-            {
-                return BadRequest("Consulta não encontrada...");
-            }
-            _context.Entry(consulta).State = EntityState.Modified;
-            _context.SaveChanges();
+            if (consulta == null)
+                return NotFound();
 
             return Ok(consulta);
         }
 
-        [HttpDelete("{id:int}", Name = "cancelar")]
-        public ActionResult Delete(int id)
+        // DELETE: api/Consultas/{id}
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteConsulta(int id)
         {
-            var consulta = _context.Consultas.FirstOrDefault(p => p.ConsultaId == id);
+            var consulta = await _context.Consultas.FindAsync(id);
+            if (consulta == null)
+                return NotFound();
 
-            if (consulta is null)
-            {
-                return NotFound("Consulta não encontrada...");
-            }
             _context.Consultas.Remove(consulta);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
 
-            return Ok($"Consulta de protocolo Nº{consulta.ConsultaId} cancelada com sucesso!");
+            return Ok(consulta);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutConsulta(int id, [FromBody] ConsultaCreateDTO consultaDTO)
+        {
+            if (id != consultaDTO.ConsultaId)
+                return BadRequest();
+
+            var consulta = await _context.Consultas.FindAsync(id);
+            if (consulta == null)
+                return NotFound();
+
+            // Atualize os campos com os dados do DTO
+            consulta.MedicoId = consultaDTO.MedicoId;
+            consulta.PacienteId = consultaDTO.PacienteId;
+            consulta.Especialidade = consultaDTO.Especialidade;
+            consulta.DataHora = consultaDTO.DataHora;
+
+            _context.Entry(consulta).State = EntityState.Modified;
+
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!ConsultaExists(id))
+                    return NotFound();
+                else
+                    throw;
+            }
+
+            return Ok(consulta);
+        }
+
+
+        // POST: api/Consultas
+        [HttpPost]
+        public async Task<ActionResult<Consulta>> PostConsulta([FromBody] ConsultaCreateDTO novaConsultaDTO)
+        {
+            var novaConsulta = new Consulta
+            {
+                MedicoId = novaConsultaDTO.MedicoId,
+                PacienteId = novaConsultaDTO.PacienteId,
+                Especialidade = novaConsultaDTO.Especialidade,
+                DataHora = novaConsultaDTO.DataHora
+            };
+
+            _context.Consultas.Add(novaConsulta);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(nameof(GetConsulta), new { id = novaConsulta.ConsultaId }, novaConsulta);
+        }
+
+        private bool ConsultaExists(int id)
+        {
+            return _context.Consultas.Any(c => c.ConsultaId == id);
         }
     }
 }
